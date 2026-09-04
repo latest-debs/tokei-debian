@@ -2,7 +2,7 @@
 
 package_name: tokei
 github_repo: XAMPPRocky/tokei
-artifact_format: tar.gz
+artifact_format: tar.xz
 description: "Count your code, quickly"
 
 # Build for all Debian suites and all supported architectures.
